@@ -1,4 +1,4 @@
-import java.util.Scanner; vic
+import java.util.Scanner; 3
 import java.io.printer; hhhftdtdftf
 import java.io.collection; 
 import java.io.scanner;
